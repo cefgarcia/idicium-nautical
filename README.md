@@ -28,6 +28,8 @@ O desafio tem como objetivo demonstrar conhecimentos de análise de dados, SQL, 
 
 \* Jupyter Notebook
 
+\* Git e GitHub
+
 
 
 \## Estrutura do desafio
@@ -40,11 +42,11 @@ O projeto contempla etapas de:
 
 1\. Exploração inicial dos dados (EDA)
 
-2\. Identificação dos tipos de dados e criação de schema
+2\. Identificação dos tipos de dados
 
-3\. Carregamento do schema no PostgreSQL
+3\. Criação do schema no PostgreSQL
 
-4\. Carga dos arquivos CSV no PostgreSQL
+4\. Carga dos arquivos CSV
 
 5\. Análise de clientes e categorias
 
@@ -80,7 +82,15 @@ Utilizado para exploração dos dados, automação de tarefas e preparação das
 
 
 
-Utilizado como banco de dados para criação do schema, carga dos arquivos CSV e execução das consultas SQL.
+Utilizado para criação do schema, carga dos arquivos CSV e execução das consultas SQL.
+
+
+
+\### Power BI
+
+
+
+Utilizado para construção do dashboard e apresentação dos principais indicadores e análises.
 
 
 
